@@ -16,4 +16,6 @@
   * [3.9. Загрузка нескольких файлов AIML](sozdaem-podobnogo-siri-chat-bota-v-ros/predislovie/3.9.-zagruzka-neskolkikh-failov-aiml.md)
   * [3.10. Создание AIML бота в ROS](sozdaem-podobnogo-siri-chat-bota-v-ros/predislovie/3.10.-sozdanie-aiml-bota-v-ros.md)
   * [3.11. Модуль AIML в ROS](sozdaem-podobnogo-siri-chat-bota-v-ros/predislovie/3.11.-modul-aiml-v-ros.md)
+  * [3.12. Установка пакета ROS sound\_play](sozdaem-podobnogo-siri-chat-bota-v-ros/predislovie/3.12.-ustanovka-paketa-ros-sound_play.md)
+  * [3.13. Работа с AIML в ROS](sozdaem-podobnogo-siri-chat-bota-v-ros/predislovie/3.13.-rabota-s-aiml-v-ros.md)
 
