@@ -22,5 +22,8 @@
   * [3.15. Итог](sozdaem-podobnogo-siri-chat-bota-v-ros/predislovie/3.15.-rezyume.md)
 * [4. Управление встраиваемыми платами с помощью ROS](4.-upravlenie-vstraivaemymi-platami-s-pomoshyu-ros/README.md)
   * [4.1. Введение в Arduino](4.-upravlenie-vstraivaemymi-platami-s-pomoshyu-ros/4.1.-vvedenie-v-arduino.md)
-  * [4.2.](4.-upravlenie-vstraivaemymi-platami-s-pomoshyu-ros/4.2..md)
+  * [4.2. Как выбрать плату Arduino для вышего робота](4.-upravlenie-vstraivaemymi-platami-s-pomoshyu-ros/4.2..md)
+  * [4.3. Начало работы с STM32 и TI Launchpads](4.-upravlenie-vstraivaemymi-platami-s-pomoshyu-ros/4.3.-nachalo-raboty-s-stm32-i-ti-launchpads.md)
+  * [4.4. Tiva C Launchpad](4.-upravlenie-vstraivaemymi-platami-s-pomoshyu-ros/4.4.-tiva-c-launchpad.md)
+  * [4.4. Raspberry Pi](4.-upravlenie-vstraivaemymi-platami-s-pomoshyu-ros/4.4.-raspberry-pi.md)
 
