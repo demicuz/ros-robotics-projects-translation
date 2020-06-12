@@ -19,6 +19,8 @@
   * [3.12. Установка пакета ROS sound\_play](sozdaem-podobnogo-siri-chat-bota-v-ros/predislovie/3.12.-ustanovka-paketa-ros-sound_play.md)
   * [3.13. Работа с AIML в ROS](sozdaem-podobnogo-siri-chat-bota-v-ros/predislovie/3.13.-rabota-s-aiml-v-ros.md)
   * [3.14. Вопросы](sozdaem-podobnogo-siri-chat-bota-v-ros/predislovie/3.14.-voprosy.md)
-  * [3.15. Резюме](sozdaem-podobnogo-siri-chat-bota-v-ros/predislovie/3.15.-rezyume.md)
-* [4. Управление встраиваемыми платами с помощью ROS](4.-upravlenie-vstraivaemymi-platami-s-pomoshyu-ros.md)
+  * [3.15. Итог](sozdaem-podobnogo-siri-chat-bota-v-ros/predislovie/3.15.-rezyume.md)
+* [4. Управление встраиваемыми платами с помощью ROS](4.-upravlenie-vstraivaemymi-platami-s-pomoshyu-ros/README.md)
+  * [4.1. Введение в Arduino](4.-upravlenie-vstraivaemymi-platami-s-pomoshyu-ros/4.1.-vvedenie-v-arduino.md)
+  * [4.2.](4.-upravlenie-vstraivaemymi-platami-s-pomoshyu-ros/4.2..md)
 
