@@ -18,4 +18,7 @@
   * [3.11. Модуль AIML в ROS](sozdaem-podobnogo-siri-chat-bota-v-ros/predislovie/3.11.-modul-aiml-v-ros.md)
   * [3.12. Установка пакета ROS sound\_play](sozdaem-podobnogo-siri-chat-bota-v-ros/predislovie/3.12.-ustanovka-paketa-ros-sound_play.md)
   * [3.13. Работа с AIML в ROS](sozdaem-podobnogo-siri-chat-bota-v-ros/predislovie/3.13.-rabota-s-aiml-v-ros.md)
+  * [3.14. Вопросы](sozdaem-podobnogo-siri-chat-bota-v-ros/predislovie/3.14.-voprosy.md)
+  * [3.15. Резюме](sozdaem-podobnogo-siri-chat-bota-v-ros/predislovie/3.15.-rezyume.md)
+* [4. Управление встраиваемыми платами с помощью ROS](4.-upravlenie-vstraivaemymi-platami-s-pomoshyu-ros.md)
 
